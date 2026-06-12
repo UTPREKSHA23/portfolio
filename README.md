@@ -11,5 +11,5 @@ This is my personal portfolio website built using HTML and CSS.
 - About section
 - Skills section
 - Education section
-- Portfolio section
-- Contact details
+- Portfolio project section
+- LinkedIn profile link
